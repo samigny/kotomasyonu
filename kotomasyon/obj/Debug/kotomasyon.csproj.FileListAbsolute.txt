@@ -1,0 +1,61 @@
+C:\Users\sami_\source\repos\kotomasyon\kotomasyon\bin\Debug\kotomasyon.exe.config
+C:\Users\sami_\source\repos\kotomasyon\kotomasyon\bin\Debug\kotomasyon.exe
+C:\Users\sami_\source\repos\kotomasyon\kotomasyon\bin\Debug\kotomasyon.pdb
+C:\Users\sami_\source\repos\kotomasyon\kotomasyon\obj\Debug\kotomasyon.csprojAssemblyReference.cache
+C:\Users\sami_\source\repos\kotomasyon\kotomasyon\obj\Debug\kotomasyon.Form1.resources
+C:\Users\sami_\source\repos\kotomasyon\kotomasyon\obj\Debug\kotomasyon.Properties.Resources.resources
+C:\Users\sami_\source\repos\kotomasyon\kotomasyon\obj\Debug\kotomasyon.csproj.GenerateResource.cache
+C:\Users\sami_\source\repos\kotomasyon\kotomasyon\obj\Debug\kotomasyon.csproj.CoreCompileInputs.cache
+C:\Users\sami_\source\repos\kotomasyon\kotomasyon\obj\Debug\kotomasyon.exe
+C:\Users\sami_\source\repos\kotomasyon\kotomasyon\obj\Debug\kotomasyon.pdb
+D:\ntp projem\kotomasyon\kotomasyon\bin\Debug\kotomasyon.exe.config
+D:\ntp projem\kotomasyon\kotomasyon\bin\Debug\kotomasyon.exe
+D:\ntp projem\kotomasyon\kotomasyon\bin\Debug\kotomasyon.pdb
+D:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.Form1.resources
+D:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.Properties.Resources.resources
+D:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.csproj.GenerateResource.Cache
+D:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.exe
+D:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.pdb
+E:\ntp projem\kotomasyon\kotomasyon\bin\Debug\kotomasyon.exe.config
+E:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.exe
+E:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.pdb
+E:\ntp projem\kotomasyon\kotomasyon\bin\Debug\kotomasyon.exe
+E:\ntp projem\kotomasyon\kotomasyon\bin\Debug\kotomasyon.pdb
+E:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.csprojResolveAssemblyReference.cache
+E:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.Form1.resources
+E:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.Properties.Resources.resources
+E:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.csproj.GenerateResource.Cache
+D:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.Form2.resources
+C:\Users\sami_\source\repos\kotomasyon\kotomasyon\obj\Debug\kotomasyon.Form2.resources
+D:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.csprojAssemblyReference.cache
+D:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.csproj.CoreCompileInputs.cache
+D:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.ogrenciekle.resources
+D:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.Ogrencisil.resources
+D:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.ogrencidüzenle.resources
+D:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.ogrencilistele.resources
+D:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.kitapekle.resources
+D:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.kitapsil.resources
+D:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.kitapdüzenle.resources
+D:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.kitaplistele.resources
+D:\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.kitapver.resources
+C:\Users\sami_\Desktop\flash\ntp projem\kotomasyon\kotomasyon\bin\Debug\kotomasyon.exe.config
+C:\Users\sami_\Desktop\flash\ntp projem\kotomasyon\kotomasyon\bin\Debug\kotomasyon.exe
+C:\Users\sami_\Desktop\flash\ntp projem\kotomasyon\kotomasyon\bin\Debug\kotomasyon.pdb
+C:\Users\sami_\Desktop\flash\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.csprojAssemblyReference.cache
+C:\Users\sami_\Desktop\flash\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.Form1.resources
+C:\Users\sami_\Desktop\flash\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.Form2.resources
+C:\Users\sami_\Desktop\flash\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.kitapdüzenle.resources
+C:\Users\sami_\Desktop\flash\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.kitapekle.resources
+C:\Users\sami_\Desktop\flash\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.kitaplistele.resources
+C:\Users\sami_\Desktop\flash\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.kitapsil.resources
+C:\Users\sami_\Desktop\flash\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.ogrencidüzenle.resources
+C:\Users\sami_\Desktop\flash\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.ogrenciekle.resources
+C:\Users\sami_\Desktop\flash\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.ogrencilistele.resources
+C:\Users\sami_\Desktop\flash\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.Ogrencisil.resources
+C:\Users\sami_\Desktop\flash\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.Properties.Resources.resources
+C:\Users\sami_\Desktop\flash\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.csproj.GenerateResource.cache
+C:\Users\sami_\Desktop\flash\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.csproj.CoreCompileInputs.cache
+C:\Users\sami_\Desktop\flash\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.exe
+C:\Users\sami_\Desktop\flash\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.pdb
+C:\Users\sami_\Desktop\flash\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.kitapver.resources
+C:\Users\sami_\Desktop\flash\ntp projem\kotomasyon\kotomasyon\obj\Debug\kotomasyon.geckalankitaplar.resources
